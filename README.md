@@ -16,7 +16,7 @@ var genTable = new csv2table({
 genTable.run();
 ```
 > Specify csvstring in variable `csvString`.
-> Specify ID of table/div element present on web page.
+> Specify ID of table/div element present on web page in variable `domElem`.
 
 
 
