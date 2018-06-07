@@ -3,9 +3,10 @@ Component to generate HTML Table from CSV String
 
 ---
 
-##Usage:
+## Usage:
 
-###Type 1: Using Already Created Table
+### Type 1: Using Already Created Table
+
 ```
 var genTable = new csv2table({
   csvString: "csvString",
@@ -19,7 +20,8 @@ genTable.run();
 
 
 
-###Type 2: Without using Already Created Table
+### Type 2: Without using Already Created Table
+
 ```
 var genTable = new csv2table({
   csvString: "csvString"
